@@ -1,0 +1,43 @@
+body{
+    margin:0;
+    padding:0;
+    background-image: url("https://thumbs.dreamstime.com/b/old-book-flying-letters-magic-light-background-bookshelf-library-ancient-books-as-symbol-knowledge-history-218640948.jpg");
+    background-repeat: no-repeat;
+    background-size: 100vw 100vh;
+    text-align: center;
+    
+}
+pre{
+    color: aliceblue;
+    text-align: left;
+    margin-left: 100px;
+    font-weight: bold;
+    font-size: 21px;
+    
+}
+div{
+    width: 500px;
+    height: 330px;
+    background-color:rgba(0, 0, 0, 0.7);
+    margin-top: 13%;
+    margin-left: 30%;
+    box-shadow: 1px 1px 20px wheat;
+    position: absolute;
+    margin-bottom: 30%;
+}
+
+h2{
+    color: aliceblue;
+    font-weight: bold;
+    text-decoration: underline;
+}
+input{
+    height: 20px;
+    
+}
+#create{
+  height: 30px;   
+}
+#create:hover{
+    box-shadow: 1px 1px 10px rgb(230, 115, 153);
+}

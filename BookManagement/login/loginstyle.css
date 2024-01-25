@@ -1,0 +1,74 @@
+body {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family: sans-serif;
+    height: 100vh;
+    background-image: url("https://images.unsplash.com/photo-1481627834876-b7833e8f5570?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bGlicmFyeXxlbnwwfHwwfHw%3D&w=1000&q=80");
+    background-size: 100vw 100vh;
+    background-repeat: no-repeat;
+    }
+    div{
+        width: 500px;
+        height: 350px;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        background-color: rgba(0, 0, 0, 0.5);
+        transform: translate(-50%, -50%);
+        padding: 20px;
+        box-shadow: 2px 2px 20px white;
+        border-radius: 30px;
+    
+    }
+
+    h2 {
+        font-size: 30px;
+        font-weight: 700;
+        color:white;
+        text-shadow: 2px 2px 25px white;
+    }
+
+    #pass,#uname {
+    color: aliceblue;
+    text-align: left;
+    font-size: 20px;
+    font-weight: 300;
+    border: 1px solid aliceblue;
+    width: 300px;
+    background-color: transparent;
+    border-radius: 5px;
+    outline: none;
+}
+.text {
+    text-align: left;
+    margin-left: 100px;
+    color: aliceblue;
+    font-weight: bold;
+
+}
+
+#bt {
+    font-size: inherit;
+    margin-top: 10px;
+    border: none;
+    width: 150px;
+    outline: none;
+    background-color: rgb(119, 111, 111);
+    color: aliceblue;
+    padding: 10px;
+    cursor: pointer;
+    border-radius: 5px;
+
+}   
+#bt:hover{
+    box-shadow: 1px 2px 10px aqua;
+}
+#atag{
+    margin-top: 50px;
+  color: aliceblue;  
+}
+#atag a{
+    color: aliceblue;
+    text-decoration: underline;
+}

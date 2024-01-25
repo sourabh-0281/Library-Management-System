@@ -1,0 +1,56 @@
+body{
+    margin:0;
+    padding:0;
+    background-image: url("https://e1.pxfuel.com/desktop-wallpaper/501/166/desktop-wallpaper-books-library-background-f12332-librarian.jpg");
+    background-repeat: no-repeat;
+    background-size: 100vw 100vh;
+    text-align: center;
+    backdrop-filter: blur(10px);
+}
+pre{
+    color: aliceblue;
+    text-align: left;
+    margin-left: 100px;
+    font-weight: bold;
+    font-size: 21px;
+    
+    
+}
+div{
+    width: 600px;
+    height: 450px;
+    background-color:rgba(0, 0, 0, 0.5);
+    margin-top: 8%;
+    margin-left: 25%;
+    box-shadow: 0px 1px 20px white;
+    position: absolute;
+    margin-bottom: 30%;
+    border-radius: 10px;
+}
+#btn{
+    padding-top: 60px;
+    padding-left: 150px;
+    
+}
+h2{
+    color: aliceblue;
+    font-weight: bold;
+    text-decoration: underline;
+    padding-bottom: 60px;
+    font-size: 40px;
+    
+}
+input{
+    height: 20px;
+    width: 200px;
+}
+#create{
+    position: relative;
+    
+  height: 40px;
+  width: 90px;   
+  background-color: rgb(192, 188, 188);
+}
+#create:hover{
+    box-shadow: 1px 1px 10px rgb(230, 115, 153);
+}

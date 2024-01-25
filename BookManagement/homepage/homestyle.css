@@ -1,0 +1,135 @@
+body{
+    margin-top:50px;
+    padding: 0px;
+    background-image: url("https://images.unsplash.com/photo-1568667256549-094345857637?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8bGlicmFyeXxlbnwwfHwwfHw%3D&w=1000&q=80");
+    background-repeat:no-repeat;
+    background-size: 100vw 100vh;
+    
+}
+
+#d{
+    margin-left: 130px;
+    margin-top:10px;
+    background-color:rgba(141, 131, 131, 0.61);
+     width: 1000px;
+     height: 300px;
+
+}
+#d1{
+    margin-top: 10px;
+    margin-left: 130px;
+    width: 499px;
+    height: 200px;
+    background-color:rgba(141, 131, 131, 0.61);
+    display:inline-block;
+    margin-right: 1px;
+}
+
+#d2{
+    margin-left: 1px;
+    display: inline-block;
+    width: 499px;
+    height: 200px;
+    background-color:rgb(141, 131, 131, 0.61);
+}
+.divblock{
+    position: absolute;
+    padding-top: 0px;
+    text-align: center;
+    width: 499px;
+    height: 60px;
+    background-color: rgb(20, 20, 124);
+}
+h4{
+    padding-left: 200px;
+    margin-top: 10px;
+   font-size: 30px;
+   color: aliceblue;
+    position: absolute;
+   
+}
+h1{
+    font-size: 40px;
+    font-weight: bold;
+    padding-top: 20px;
+    position: relative;
+    text-align: center;
+    color: rgb(88, 85, 85);
+    text-shadow: 0px 0px 20px white;
+    text-decoration: underline;
+   
+    padding-bottom: 5px;
+}
+#a1{
+    color: rgb(255, 255, 255);
+    position: absolute;
+    background-color:transparent;
+    border: 2px solid rgb(10, 10, 10);
+    border-radius: 5px;
+    width: 110px;
+    height: 30px;
+    text-decoration: none;
+    margin-top:110px;
+    margin-left:120px;
+    text-align: center;
+    padding-top: 6px;
+    font-size: 20px;
+    
+}
+#a1:hover{
+    box-shadow: 1px 1px 20px white;
+    background-color: rgba(63, 59, 59, 0.541);
+}
+#a2{
+    font-size: 20px;
+    color: white;
+    padding-top:6px;
+    position: absolute;
+    background-color:transparent;
+    border: 2px solid rgb(10, 10, 10);
+    border-radius: 5px;
+    width: 110px;
+    height: 30px;
+    text-decoration: none;
+    text-align: center;
+    margin-top:110px;
+    margin-left:190px;
+}
+#a2:hover{
+    box-shadow: 1px 1px 20px white;
+    background-color: rgba(63, 59, 59, 0.541);
+}
+
+#a3{
+ 
+    color: white;
+    position: absolute;
+    background-color: transparent;
+    border: 2px solid rgb(10, 10, 10);
+    border-radius: 5px;
+    width: 110px;
+    height: 30px;
+    text-decoration: none;
+    margin-top:110px;
+    margin-left:250px;
+    text-align: center;
+    padding-top: 6px;
+    font-size: 20px;   
+}
+#a3:hover{
+    box-shadow: 1px 1px 20px white;
+    background-color: rgba(63, 59, 59, 0.541);
+}
+p{
+    
+    margin:10px;
+    text-align: justify;    
+    line-height: 25px;
+    font-size: 20px;
+    padding: 10px;
+    color: transparent;
+    
+    
+    box-shadow: 0px 0px 20px rgb(109, 107, 107) ;
+}
+
